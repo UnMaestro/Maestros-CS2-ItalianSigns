@@ -17,6 +17,7 @@ Future updates will add **more arrows**, **more highway layouts**, and **blue, w
 - Uses the **Traffic Type Spain** font (must be installed separately)  
 - Includes **over 30 templates/layouts** for Write Everywhere  
 - Around **200 sign images** available  
+- Toll Signs! NEW in Version 0.4.0 
 
 ###  Road Sign Types (currently available)
 - **Traffic Signs** – Warning, prohibition, mandatory, and more  
