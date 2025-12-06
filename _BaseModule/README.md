@@ -1,5 +1,5 @@
 # Italian Signs WE-Module for Cities: Skylines II  
-## EARLY ACCESS
+## SERIE A PACK
 
 Ciao and Hello!  
 This is a **Write Everywhere module** that brings a collection of **Italian road and traffic signs** into your game.  
@@ -93,9 +93,21 @@ For copyright reasons, the font is **not included** and must be installed manual
 
 ---
 
-##  Check out my other Signs Modules
-- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)  
-- [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)  
+##  Check out my other Signs/Overrider Modules
+### Serie A
+- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)
+- [German OVerrider](https://mods.paradoxplaza.com/mods/123745/Windows)
+- [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)
+- [Dutch Overrider]()
+- [Italian Overrider](https://mods.paradoxplaza.com/mods/124269/Windows)
+
+### Serie B
+- [Swiss Signs](https://mods.paradoxplaza.com/mods/124288/Windows)
+- [Swiss Overrider](https://mods.paradoxplaza.com/mods/123563/Windows)
+- [French Signs](https://mods.paradoxplaza.com/mods/124289/Windows)
+- [French Overrider](https://mods.paradoxplaza.com/mods/123893/Windows)
+- [Spanish Signs](https://mods.paradoxplaza.com/mods/124290/Windows)
+- [Spanish Overrider]()
 
 ---
 
