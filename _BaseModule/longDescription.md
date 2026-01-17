@@ -1,36 +1,22 @@
-# Italian Signs WE-Module for Cities: Skylines II  
+# Italian Signs WE-Module 
+## v.1.0 *Autostrada del Sole* Release
 
-Ciao and Hello!  
+Ciao and Hello!
 This is a **Write Everywhere module** that brings a collection of **Italian road and traffic signs** into your game.  
 
 ---
 
 ##  Features
-- Includes **over 30 templates/layouts** for Write Everywhere  
-- Around **200 sign images** available  
+- Includes **177 templates/layouts** for Write Everywhere
+- Around **400 images** available(Symbols included)
 - Road Sign Types:
     - **Traffic Signs** – Warning, prohibition, mandatory, and more  
-    - **Autostrada / Expressway Signs** – Green and Blue signs for start, end, tunnel, and bridge markings  
-    - **Miscellaneous Signs and Symbols** – Icons and extra templates for flexible use
+    - **Autostrada / Expressway Signs** – Green and Blue(State Highway, Province Highway)
+    - **Local / Tourist Signs** – White and Brown 
+    - **Signpost Signs** – For all Roadtypes there are Signpost Signs
+    - **Miscellaneous and Symbols** – Icons, Plates, Chevrons, etc.
     - **Toll Signs** - Telepass, Card and Cash Announcements and Tollgates, with static red/green light 
 
-#### Planned for future updates:
-- **Blue and Green Road Signs**  
-- **White, Yellow, and Brown Directional and Misc Signs**  
-- **Additional Arrows and Layouts**  
-- **More templates and customization options**
-
----
-
-###  Traffic Signs
-- Includes standard Italian road signs used nationwide  
-- Many signs share common prefabs for better organization and less clutter  
-- Configurable variables for:
-  - Distances  
-  - Height/width restrictions  
-  - Arrows and directions  
-
-- Combined sign templates will be added in future updates for even more flexibility  
 
 ---
 
@@ -78,11 +64,6 @@ For copyright reasons, the font is **not included** and must be installed manual
 5. Open **City Fonts** (click the “W” icon on the top-left).  
 6. Press `+` and select your downloaded font.  
 
----
-
-##  Troubleshooting
-- If you get the Error on startup **.... Should not be empty.**: 
-    - You could ignore it or resubscribe to the mod. This happens when I delete a atlas folder, Skyve or PDXMods dont delete that for some reason. 
 
 ---
 
@@ -100,3 +81,5 @@ For copyright reasons, the font is **not included** and must be installed manual
 ---
 
 ##  Enjoy & Share Your Feedback!
+## Buon Viaggio!
+

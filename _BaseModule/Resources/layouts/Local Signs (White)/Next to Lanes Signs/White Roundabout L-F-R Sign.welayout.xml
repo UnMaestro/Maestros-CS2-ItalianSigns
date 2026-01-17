@@ -1,0 +1,594 @@
+<WELayout>
+  <self itemName="Roundabout Sign">
+    <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
+      <offsetPosition x="0.02" y="1.5850004" z="-0.555" />
+      <offsetRotation x="-0" y="0" z="0" />
+      <scale x="2" y="1.25" z="1" />
+      <mustDraw>1</mustDraw>
+      <instanceCount>-1</instanceCount>
+      <arrayInstances x="1" y="1" z="1" />
+      <arraySpacing x="0" y="0" z="0" />
+    </transform>
+    <imageMesh atlas="MaestroItalianSigns:Backgrounds">
+      <mesh></mesh>
+      <image>White Empty 2</image>
+    </imageMesh>
+    <defaultStyle>
+      <color>FFFFFFFF</color>
+      <emissiveColor>FFFFFFFF</emissiveColor>
+      <metallic>0</metallic>
+      <smoothness>0</smoothness>
+      <emissiveIntensity>0</emissiveIntensity>
+      <emissiveExposureWeight>0</emissiveExposureWeight>
+      <coatStrength>0</coatStrength>
+      <colorMask1>FFFFFF</colorMask1>
+      <colorMask2>FFFFFF</colorMask2>
+      <colorMask3>FFFFFF</colorMask3>
+    </defaultStyle>
+  </self>
+  <children>
+    <self itemName="Arrow">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="0" y="-0.265000015" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="0.6" y="0.6" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="MaestroItalianSigns:Arrows">
+        <mesh></mesh>
+        <image>Black Roundabout L-F-R</image>
+      </imageMesh>
+      <defaultStyle>
+        <color>FFFFFFFF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+  </children>
+  <children>
+    <self itemName="Backside">
+      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
+        <offsetPosition x="0.02" y="0" z="0" />
+        <offsetRotation x="-0" y="180" z="0" />
+        <scale x="2" y="1.25" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="MaestroItalianSigns:Backgrounds">
+        <mesh></mesh>
+        <image>Blue Empty 2</image>
+      </imageMesh>
+      <defaultStyle>
+        <color>000000FF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+  </children>
+  <children>
+    <self itemName="Left Exits">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="0" y="0" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="1" y="1" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <matrixTransform />
+    </self>
+    <children>
+      <self itemName="1. Line">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.6599999" y="-0.04" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.065" y="0.065" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="Traffic_Type_W01_Spain_D">
+          <text>quartiere</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>000000FF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="2. Line">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.6799999" y="-0.16" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.07" y="0.07" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="Traffic_Type_W01_Spain_D">
+          <text>Mazzini</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>000000FF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="3. Line">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.59" y="-0.369999915" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.07" y="0.07" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="Traffic_Type_W01_Spain_D">
+          <text>BOLOGNA</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>000000FF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="4. Line">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.57" y="-0.489999831" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.065" y="0.065" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="Traffic_Type_W01_Spain_D">
+          <text>centro</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>000000FF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+      <children>
+        <self itemName="Symbol">
+          <transform alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="0.220000014" y="0" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="0.1" y="0.1" z="1" />
+            <mustDraw>1</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <imageMesh atlas="MaestroItalianSigns:Symbols">
+            <mesh></mesh>
+            <image>Icon City Center</image>
+          </imageMesh>
+          <defaultStyle>
+            <color>FFFFFFFF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+      </children>
+    </children>
+  </children>
+  <children>
+    <self itemName="Top Exits">
+      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
+        <offsetPosition x="0.01" y="0.300000072" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="1.15" y="0.5" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="MaestroItalianSigns:Green Autostrada">
+        <mesh></mesh>
+        <image>Green Background</image>
+      </imageMesh>
+      <defaultStyle decalFlags="0">
+        <color>FFFFFFFF</color>
+        <emissiveColor>00000000</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>000000</colorMask1>
+        <colorMask2>000000</colorMask2>
+        <colorMask3>000000</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="1. Line">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0" y="0.119999982" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.125" y="0.125" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="Traffic_Type_W01_Spain_D">
+          <text>tangenziale</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="2. Line">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.18" y="-0.12999998" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.09" y="0.1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="Traffic_Type_W01_Spain_D">
+          <text>autostrade</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+      <children>
+        <self itemName="Autostrada Plate 1">
+          <transform alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="-0.439999849" y="0" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="0.15" y="0.15" z="1" />
+            <mustDraw>1</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <imageMesh atlas="MaestroItalianSigns:Misc">
+            <mesh></mesh>
+            <image>Plate Autostrada</image>
+          </imageMesh>
+          <defaultStyle>
+            <color>FFFFFFFF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+        <children>
+          <self itemName="Number">
+            <transform alignment="Left" arrayAxisOrder="XYZ">
+              <offsetPosition x="0" y="0" z="0" />
+              <offsetRotation x="-0" y="0" z="0" />
+              <scale x="0.0600000024" y="0.075" z="1" />
+              <mustDraw>1</mustDraw>
+              <instanceCount>-1</instanceCount>
+              <arrayInstances x="1" y="1" z="1" />
+              <arraySpacing x="0" y="0" z="0" />
+            </transform>
+            <textMesh fontName="Traffic_Type_W01_Spain_D">
+              <text>A1</text>
+              <MaxWidthMeters>0</MaxWidthMeters>
+            </textMesh>
+            <defaultStyle>
+              <color>FFFFFFFF</color>
+              <emissiveColor>FFFFFFFF</emissiveColor>
+              <metallic>0</metallic>
+              <smoothness>0</smoothness>
+              <emissiveIntensity>0</emissiveIntensity>
+              <emissiveExposureWeight>0</emissiveExposureWeight>
+              <coatStrength>0</coatStrength>
+              <colorMask1>FFFFFF</colorMask1>
+              <colorMask2>FFFFFF</colorMask2>
+              <colorMask3>FFFFFF</colorMask3>
+            </defaultStyle>
+          </self>
+        </children>
+      </children>
+      <children>
+        <self itemName="Autostrada Plate 2">
+          <transform alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="-0.6299997" y="0" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="0.15" y="0.15" z="1" />
+            <mustDraw>1</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <imageMesh atlas="MaestroItalianSigns:Misc">
+            <mesh></mesh>
+            <image>Plate Autostrada</image>
+          </imageMesh>
+          <defaultStyle>
+            <color>FFFFFFFF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+        <children>
+          <self itemName="Number">
+            <transform alignment="Left" arrayAxisOrder="XYZ">
+              <offsetPosition x="0" y="0" z="0" />
+              <offsetRotation x="-0" y="0" z="0" />
+              <scale x="0.0600000024" y="0.075" z="1" />
+              <mustDraw>1</mustDraw>
+              <instanceCount>-1</instanceCount>
+              <arrayInstances x="1" y="1" z="1" />
+              <arraySpacing x="0" y="0" z="0" />
+            </transform>
+            <textMesh fontName="Traffic_Type_W01_Spain_D">
+              <text>A3</text>
+              <MaxWidthMeters>0</MaxWidthMeters>
+            </textMesh>
+            <defaultStyle>
+              <color>FFFFFFFF</color>
+              <emissiveColor>FFFFFFFF</emissiveColor>
+              <metallic>0</metallic>
+              <smoothness>0</smoothness>
+              <emissiveIntensity>0</emissiveIntensity>
+              <emissiveExposureWeight>0</emissiveExposureWeight>
+              <coatStrength>0</coatStrength>
+              <colorMask1>FFFFFF</colorMask1>
+              <colorMask2>FFFFFF</colorMask2>
+              <colorMask3>FFFFFF</colorMask3>
+            </defaultStyle>
+          </self>
+        </children>
+      </children>
+    </children>
+  </children>
+  <children>
+    <self itemName="Right Exits">
+      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
+        <offsetPosition x="-0.6100002" y="-0.269999981" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="0.6" y="0.3" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="MaestroItalianSigns:Blue Roads">
+        <mesh></mesh>
+        <image>Blue Background</image>
+      </imageMesh>
+      <defaultStyle decalFlags="0">
+        <color>FFFFFFFF</color>
+        <emissiveColor>00000000</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>000000</colorMask1>
+        <colorMask2>000000</colorMask2>
+        <colorMask3>000000</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="1. Line">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0" y="0.06999999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.063" y="0.07" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="Traffic_Type_W01_Spain_D">
+          <text>S. LAZZARO</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="2. Line">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-0.109999985" y="-0.0599999949" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.063" y="0.07" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="Traffic_Type_W01_Spain_D">
+          <text>FORLI'</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+      <children>
+        <self itemName="State Plate">
+          <transform alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="0.28" y="0" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="0.09" y="0.09" z="1" />
+            <mustDraw>1</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <imageMesh atlas="MaestroItalianSigns:Misc">
+            <mesh></mesh>
+            <image>Plate Blue Roadnumber</image>
+          </imageMesh>
+          <defaultStyle>
+            <color>FFFFFFFF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+        <children>
+          <self itemName="Number">
+            <transform alignment="Left" arrayAxisOrder="XYZ">
+              <offsetPosition x="0" y="0" z="0" />
+              <offsetRotation x="-0" y="0" z="0" />
+              <scale x="0.056" y="0.07" z="1" />
+              <mustDraw>1</mustDraw>
+              <instanceCount>-1</instanceCount>
+              <arrayInstances x="1" y="1" z="1" />
+              <arraySpacing x="0" y="0" z="0" />
+            </transform>
+            <textMesh fontName="Traffic_Type_W01_Spain_D">
+              <text>SS9</text>
+              <MaxWidthMeters>0</MaxWidthMeters>
+            </textMesh>
+            <defaultStyle>
+              <color>FFFFFFFF</color>
+              <emissiveColor>FFFFFFFF</emissiveColor>
+              <metallic>0</metallic>
+              <smoothness>0</smoothness>
+              <emissiveIntensity>0</emissiveIntensity>
+              <emissiveExposureWeight>0</emissiveExposureWeight>
+              <coatStrength>0</coatStrength>
+              <colorMask1>FFFFFF</colorMask1>
+              <colorMask2>FFFFFF</colorMask2>
+              <colorMask3>FFFFFF</colorMask3>
+            </defaultStyle>
+          </self>
+        </children>
+      </children>
+    </children>
+  </children>
+</WELayout>
